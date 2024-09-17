@@ -1,0 +1,10 @@
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUsers\cadastroUsers\bin\Debug\cadastroUsers.exe.config
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUsers\cadastroUsers\bin\Debug\cadastroUsers.exe
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUsers\cadastroUsers\bin\Debug\cadastroUsers.pdb
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUsers\cadastroUsers\obj\Debug\cadastroUsers.csproj.AssemblyReference.cache
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUsers\cadastroUsers\obj\Debug\cadastroUsers.Form1.resources
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUsers\cadastroUsers\obj\Debug\cadastroUsers.Properties.Resources.resources
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUsers\cadastroUsers\obj\Debug\cadastroUsers.csproj.GenerateResource.cache
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUsers\cadastroUsers\obj\Debug\cadastroUsers.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUsers\cadastroUsers\obj\Debug\cadastroUsers.exe
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUsers\cadastroUsers\obj\Debug\cadastroUsers.pdb
