@@ -1,0 +1,13 @@
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\bin\Debug\cadastroUser v2.exe.config
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\bin\Debug\cadastroUser v2.exe
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\bin\Debug\cadastroUser v2.pdb
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\obj\Debug\cadastroUser v2.csproj.AssemblyReference.cache
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\obj\Debug\cadastroUser_v2.Form1.resources
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\obj\Debug\cadastroUser_v2.Properties.Resources.resources
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\obj\Debug\cadastroUser v2.csproj.GenerateResource.cache
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\obj\Debug\cadastroUser v2.csproj.CoreCompileInputs.cache
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\obj\Debug\cadastro.4E4E6098.Up2Date
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\obj\Debug\cadastroUser v2.exe
+C:\Users\lab\Desktop\Cadastro de usuarios\cadastroUser v2\cadastroUser v2\obj\Debug\cadastroUser v2.pdb
